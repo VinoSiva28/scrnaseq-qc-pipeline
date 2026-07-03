@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.textClipping
+.ipynb_checkpoints/
+data/GSE132465_GEO_processed_CRC_10X_raw_UMI_count_matrix.txt

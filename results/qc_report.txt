@@ -1,0 +1,7 @@
+Single-Cell RNA-seq QC Report
+
+Total cells: 200
+Passed QC: 180
+Failed QC: 20
+Average mitochondrial percentage: 8.22
+Average total counts: 20620.7
